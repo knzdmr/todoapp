@@ -4,6 +4,7 @@
 for backend create virtiual environment and install requirements with using:
 ```
 python(3) -m venv 'yourvenvname'
+source 'yourvenvname'/bin/activate
 pip install requirements.txt
 ```
 then start backend server with using:
